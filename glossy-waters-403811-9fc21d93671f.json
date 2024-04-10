@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glossy-waters-403811",
+  "private_key_id": "9fc21d93671f9a8f26f2892889c69cebf85657e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpc2i1Rb2Actrr\nx/jZcX28QE3owlihveSJ844WhSxEZVtDR0WhU0JIfk2e7Rj7A+RhtPk036Dh2VIO\n0HuzA7FJ1kUrd3B2iUr72knaOolCi0nYUlyviEu+YXP7UcmQ/HIkoanElFrbq7++\nOJe/yj7lZsJ9NgsYuFd5FHGBs1lRtQpSMZADmRaoRusy51XgKCJqUNmyb8j+uEH2\n9fWUEW4EzNVuU5FmAhcWnEsXkwdt+wpyPiZdJ8+JGCsdZt1Z2PuMo6rfyByI/yo1\n7x1Xjt0bMxHzgGGRLLfsXaay4MCS/kcbfdQWiOkL4cYBWaRcF6qPcN1dy8UpWkGp\npcMXqYJ1AgMBAAECggEABUvqs3PVGw08A4+yGxXdkMNPzB07CP83BArdX53VBuRG\nKIGzTvobwclU4slVdQ8nldhCy+DLlhOlaXohy7QrV/v/GH84wDPFaL7nfQ9EWBSj\nf8P/SqtPdsl0ByCE1OfXJ4b4GAFtH52sNiVttNx8/82o+aH1UdX9QfceHyg8e/3I\nCtVXT6lOZmfShefpmSsVQVXNdHzfFEnPRP8dqub1CLZT9ns9L3spkEEW8ezPnWdD\nD/e/5ZXIP8HtEl4Af1KyRGBcRzVuEnkfzPGTTeFWwi4R2rlzD5yWneLrw8BDvWLG\nYpBAiKznWFALq39VP1vVNdtGgKUyeLI5T8xrShSPlwKBgQDuzaDFRtVUglEgeHIr\no9mZWYI4P67Bar8L6cvnTJv48l9pcRrAfdx4cB4ljctXZ/6EqXnWaQ/luns/keLq\nba6Auni3gE3VGfpINJ8xzNdrrbY28JB4SHnNmolU2lnfpCH29LNOq8v8ezaGXMZS\nQ9XkDIfwee3W1b5bE9ZuCVz1jwKBgQC1p0JbA6uRsjXpAULNP4iH43+dGbwlvPo0\nI3xT4ofF9/N+AjIL/WkpAIOe0br/iig0JoR4Rt0Cy8d+WPTANO+7m8pEeDIS9WYz\nKhFXhWMyQNUkZPAQJFBpKrWO7zSGX7TJ9FlJYM+Kv9vNKlrdyWQiJx8eA1WTHLkU\ngjkroOgtuwKBgG0s4VWPvrQ2J/TaXAgLjs4HF/uzUafnr5Q4vRnv8lbsKCbCqOJc\nKFF/oKi2nMJHLxtjh+o4eiYjDXnQrpdSsbb0iYALToogqEYemLFh3xLBhk6zyLjV\nGaqf/i0m7nPKTCTlVpye+lFh21muTJULolvyRqvwcoYHjlGBTkVcTn2NAoGACkLW\ndrmwWVyNuwm9MkbieXqaXM91V1RjdcqDXWGwdbhZ4sZQ+WhpJk3HIZOLUqAFQVzj\nor+uAFhufm6b9LeIyzozpMZ9XaDLExzPOfho8A/FenbRMLg8apRlCRvuBaEmXzoU\nSRbU4muQCPjZhSm5JEy9bz6U+OhodAYfIJ3IP70CgYB90pjSz18YBCIBu3SOGWgj\nrgccD4fptf1gaEUzGfs6IexGLPhuBfb7lO+47rtBQdQuuqklVyI18w4iFoskglzE\n1xev4y+CgbMo7tXUKqxtV/IDSwjvpN4r4t9xGvU4g5aN7FQCTO/NPVcezqwGQZjf\n6nTfY9t5uC6O0rsgtvCJhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@glossy-waters-403811.iam.gserviceaccount.com",
+  "client_id": "115074868623726878490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40glossy-waters-403811.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
